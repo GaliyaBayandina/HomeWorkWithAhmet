@@ -21,101 +21,6 @@
       <change afterPath="$PROJECT_DIR$/../IntelliJ IDEA CE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Malwarebytes-Mac-4.18.11.4873.pkg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Safari" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ActionClass/ActionsMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ActionClass/DragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ActionClass/HoverOver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ActionClass/HoverOverPrcatice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ActionClass/MovingSlider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ActionClass/PracticeActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FramesAndIframe/framePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GetWindowHandle/SwitchMultipleWindows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GetWindowHandle/switchWindowclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GroupPractice/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GroupPractice/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWork/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaScript.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaScriptExecutorClass/JSPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaScriptExecutorClass/JavaScriptMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/KubaMentoring/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SelectClass/DreamCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SelectClass/SelectBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SelectClass/SelectMidLevelPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SelectClass/SelectPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntro/DriverFindElementsPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntro/FindElementsMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntro/GetAttribute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntro/GetAttributePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntro/RealLifeExamplePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntro/SeleniumBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntro/SeleniumDriverMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntro/YouTubeRealInterviewQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/CSSLocator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/LocatorPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/LocatorsIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/LocatorsIntro2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/XPATHLocator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/XPATHPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/XpathrealHealthProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Task1Nazik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/OpenChartTestNGPrcatice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/TestNGAssertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/TestNGIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Utils/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/ActionClass/ActionsMethods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/ActionClass/DragAndDrop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/ActionClass/HoverOver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/ActionClass/HoverOverPrcatice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/ActionClass/MovingSlider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/ActionClass/PracticeActions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/FramesAndIframe/framePractice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/GetWindowHandle/SwitchMultipleWindows.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/GetWindowHandle/switchWindowclass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/GroupPractice/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/GroupPractice/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/JavaScript.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/JavaScriptExecutorClass/JSPractice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/JavaScriptExecutorClass/JavaScriptMethods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/KubaMentoring/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SelectClass/DreamCar$OpenCharTestNGPractice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SelectClass/DreamCar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SelectClass/SelectBasics.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SelectClass/SelectMidLevelPractice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SelectClass/SelectPractice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumIntro/DriverFindElementsPractice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumIntro/FindElementsMethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumIntro/GetAttribute.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumIntro/GetAttributePractice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumIntro/RealLifeExamplePractice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumIntro/SeleniumBasics.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumIntro/SeleniumDriverMethods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumIntro/YouTubeRealInterviewQuestion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/CSSLocator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/LocatorPractice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/LocatorsIntro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/LocatorsIntro2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/XPATHLocator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/XPATHPractice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/XpathrealHealthProject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/practice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Tasks/Task1Nazik.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/TestNG/OpenChartTestNGPrcatice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/TestNG/TestNGAssertion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/TestNG/TestNGIntro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Utils/BrowserUtils.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Slack" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SoftSkills/Batch 16.pptx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/CodeResources" afterDir="false" />
@@ -1302,7 +1207,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
