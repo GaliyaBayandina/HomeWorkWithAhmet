@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bee147f-a865-42fc-a8a3-cce62f18f42e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.localized" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1683183158270.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch16/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch16_KubaMentoring" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DisplayLink Manager" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EB2 case/Bayandina Galiya EB2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EB2 case/Bayandina Galiya EB3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EHP-Image-Consultant-SFBayArea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galiya.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaliyaProject.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitBob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Google Chrome" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntelliJ IDEA CE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Malwarebytes-Mac-4.18.11.4873.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Safari" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionClass/ActionsMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionClass/DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionClass/HoverOver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionClass/HoverOverPrcatice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionClass/MovingSlider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionClass/PracticeActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FramesAndIframe/framePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GetWindowHandle/SwitchMultipleWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GetWindowHandle/switchWindowclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GroupPractice/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GroupPractice/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWork/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JavaScript.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JavaScriptExecutorClass/JSPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JavaScriptExecutorClass/JavaScriptMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/KubaMentoring/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SelectClass/DreamCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SelectClass/SelectBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SelectClass/SelectMidLevelPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SelectClass/SelectPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntro/DriverFindElementsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntro/FindElementsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntro/GetAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntro/GetAttributePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntro/RealLifeExamplePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntro/SeleniumBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntro/SeleniumDriverMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntro/YouTubeRealInterviewQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/CSSLocator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/LocatorPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/LocatorsIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/LocatorsIntro2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/XPATHLocator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/XPATHPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/XpathrealHealthProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLocators/practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Task1Nazik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/OpenChartTestNGPrcatice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/TestNGAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/TestNGIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utils/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ActionClass/ActionsMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ActionClass/DragAndDrop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ActionClass/HoverOver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ActionClass/HoverOverPrcatice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ActionClass/MovingSlider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ActionClass/PracticeActions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/FramesAndIframe/framePractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/GetWindowHandle/SwitchMultipleWindows.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/GetWindowHandle/switchWindowclass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/GroupPractice/Task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/GroupPractice/Task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/JavaScript.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/JavaScriptExecutorClass/JSPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/JavaScriptExecutorClass/JavaScriptMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/KubaMentoring/Task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SelectClass/DreamCar$OpenCharTestNGPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SelectClass/DreamCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SelectClass/SelectBasics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SelectClass/SelectMidLevelPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SelectClass/SelectPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumIntro/DriverFindElementsPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumIntro/FindElementsMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumIntro/GetAttribute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumIntro/GetAttributePractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumIntro/RealLifeExamplePractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumIntro/SeleniumBasics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumIntro/SeleniumDriverMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumIntro/YouTubeRealInterviewQuestion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/CSSLocator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/LocatorPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/LocatorsIntro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/LocatorsIntro2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/Task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/Task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/XPATHLocator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/XPATHPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/XpathrealHealthProject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLocators/practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Tasks/Task1Nazik.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/TestNG/OpenChartTestNGPrcatice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/TestNG/TestNGAssertion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/TestNG/TestNGIntro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Utils/BrowserUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Slack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftSkills/Batch 16.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Lib/python3.3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Lib/python3.8.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Lib/python3/certifi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Lib/python3/certifi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Lib/python3/certifi/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Lib/python3/certifi/cacert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Lib/python3/certifi/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Lib/python33/sublime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Lib/python33/sublime_plugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Lib/python38/sublime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Lib/python38/sublime_plugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Lib/python38/sublime_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/ASP.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/ActionScript.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/AppleScript.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Batch File.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Binary.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/C#.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/C++.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/CSS.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Clojure.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Color Scheme - Default.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Color Scheme - Legacy.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/D.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Default.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Diff.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Erlang.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Git Formats.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Go.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Graphviz.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Groovy.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/HTML.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Haskell.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/JSON.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Java.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/JavaScript.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/LaTeX.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Language - English.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Lisp.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Lua.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Makefile.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Markdown.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Matlab.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/OCaml.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Objective-C.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/PHP.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Pascal.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Perl.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Python.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/R.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Rails.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Regular Expressions.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/RestructuredText.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Ruby.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Rust.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/SQL.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Scala.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/ShellScript.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/TCL.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Text.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Textile.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Theme - Default.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/Vintage.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/XML.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/Packages/YAML.sublime-package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/changelog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/crash_reporter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/libcrypto.1.1.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/libssl.1.1.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/plugin_host-3.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/plugin_host-3.8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/sublime_text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/MacOS/update_installer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/Resources/Document.icns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/Resources/Sublime Text.icns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/SharedSupport/bin/subl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sublime Text.app/Contents/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeamViewer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Techtorial.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Telegram" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../USB Display Device" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blank-page-note-white-paper-texture-as-background-text_84485-1631.jpg.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../galiyastyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /2019_TaxReturn.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /2022_TaxReturn.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /Bayandina Galiya EB2-2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /Driver license .pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /Galiya Bayandina CV.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /Galiya Bayandina Resume.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /LCP083-8922-449-insurance-Id.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /Part 10. Applicant's Statement, Contact.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /TaxReturn-2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /TaxReturn-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /TaxReturn.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /doc00966320230201125630.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /Новая папка/2023-03-24 19.07.05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /Новая папка/886349869_c0e59d2c-b5c2-4230-a793-9dca71a40bc2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /Новая папка/Contract Translate.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /Новая папка/Contract Translate11111.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /Новая папка/DRIVER LICENSE (перетянутый) 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /Новая папка/DRIVER LICENSE.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /Новая папка/Galiya proof of employement.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /Новая папка/Galiya proof of employement.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /Новая папка/House of Electronics.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /Новая папка/IMAGE 2023-03-05 21:47:50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /Новая папка/W-2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my documents /Новая папка/Work Permit Translate.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/ArraysProject (1).zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/ArraysProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/ArraysProject/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/ArraysProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/ArraysProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/ArraysProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/ArraysProject/ArraysProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/ArraysProject/src/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/ArraysProject/src/Test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/Batch16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/TestInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/Abstraction3/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/Abstraction3/GrandChild.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/Abstraction3/GrandParentAbstract.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/Abstraction3/Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/asbtraction1/Alex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/asbtraction1/Campus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/asbtraction1/John.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/asbtraction1/Online.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/asbtraction1/OutOfStates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/asbtraction1/SelfLearner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/asbtraction1/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/asbtraction1/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/asbtraction1/Victoria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/asbtraction2/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/asbtraction2/Birds.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/asbtraction2/CanFly.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/asbtraction2/CanRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/asbtraction2/CanSwim.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/asbtraction2/Duck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/asbtraction2/Fish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/asbtraction2/Puffin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Abstraction/asbtraction2/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/AccessModifiers/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/AccessModifiers/ChildAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/AccessModifiers/TestAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/BlocksPractice/Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/BlocksPractice/TestPractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Encapsulation/CityClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Encapsulation/ImmutablePractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Encapsulation/Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Encapsulation/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Exception/Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Exception/Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Exception/Practice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/IfStatment/IfCurlyBracets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/IfStatment/elseIfPractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/IfStatment/elseIfPractice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/IfStatment/elsepractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/IfStatment/elsepractice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/IfStatment/elsepractice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/IfStatment/elsepractice4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/IfStatment/elsepractice5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/IfStatment/nestedIfPractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/IfStatment/nestedIfPractice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/IfStatment/nestedIfPractice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/IfStatment/nestedIfpractice4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/IfStatment/practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/IfStatment/practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/IfStatment/practice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Inheritance/InheritancePractice2/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Inheritance/InheritancePractice2/BMW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Inheritance/InheritancePractice2/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Inheritance/InheritancePractice2/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Inheritance/InheritancePractice2/DomesticAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Inheritance/InheritancePractice2/Lion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Inheritance/InheritancePractice2/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Inheritance/InheritancePractice2/WildAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Inheritance/InheritancePractice2/Zoo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Inheritance/InheritancePractice3/Flower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Inheritance/InheritancePractice3/Rose.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Inheritance/InheritancePractice4/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Inheritance/InheritancePractice4/Notebook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Inheritance/InheritancePractice5/Shirt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Inheritance/InheritancePractice5/ShirtSleep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Inheritance/InheritancePractice5/T_shirt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/Inheritance/InheritancePractice5/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/MapPractice/HashTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/MapPractice/Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/MapPractice/Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/MapPractice/Practice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/MapPractice/Practice4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/MapPractice/Practice5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/MapPractice/Practice6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/MapPractice/Practice7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/MapPractice/Practice8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/MapPractice/StudentInfroTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/ArraysConcept.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/Constructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/GarbageCollector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/IfAndTernary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/JavaPrimativeDataAsciiTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/ListOfConcepts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/ListPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/Loops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/MapPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/OOP/AbstarctPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/OOP/AbstractInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/OOP/Cars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/OOP/Encapsulation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/OOP/EncapsulationPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/OOP/Inheritance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/OOP/InterfaceChild.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/OOP/InterfacePractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/OOP/InterfacePractice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/OOP/Jaguar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/OOP/Lamborghini.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/OOP/PolyMorphism.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/OOP/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/ObjectsAndMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/RecapOfRecap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/RecapWithAhmet/Exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/RecapWithAhmet/RecapOfRecap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/SetPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/StaticInstanceBlock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/StaticPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/StringAndMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/StringBuilderPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/StringSplitMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/SwitchStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/RecapWithAhmet/WrapperClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/SetPractice/Flower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/SetPractice/FlowerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/SetPractice/Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/SetPractice/Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/SetPractice/Practice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/SetPractice/Practice4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/SetPractice/TestFlower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/StringBuilderPractice/Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/StringBuilderPractice/Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/StringBuilderPractice/Practice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/StringBuilderPractice/Practice4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/StringBuilderPractice/Practice5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/StringBuilderPractice/Practice6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayList/ARRAYTOARRAYLIST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayList/ArrayListToArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayList/ChildToAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayList/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayList/GroceryList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayList/Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayList/Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayList/Practice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayList/Practice4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayList/Practice5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayList/Practice7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayList/Store.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayList/TestAnimal2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayspractice/multipractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayspractice/multipractice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayspractice/multipractice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayspractice/multitask1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayspractice/practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayspractice/practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayspractice/practice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayspractice/practice4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayspractice/sortpracticeclass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayspractice/splitpractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayspractice/task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayspractice/task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayspractice/task3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayspractice/task4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/arrayspractice/task5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/javaFirst/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/HeadTailGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/continuepractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/dowhilepractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/dowhilepractice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/dowhilepractice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/foeachpractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/foreachprectice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/foreachtask1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/forpractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/forpractice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/forpractice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/task3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/task4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/task5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/task6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/taskforpractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/whilepractice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/whilepractice4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/whilepractice5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/whilepractice6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/whileprectice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/loops/whileprectice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/mentorOleg/task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/mentorOleg/task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/mentorOleg/task3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/nestedloop/breakpractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/nestedloop/nestedloop1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/nestedloop/nestedloop2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/nestedloop/nestedloop4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/nestedloop/nestedloop5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/nestedloop/nestedloops3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/Calculatorclass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/CarTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/EmployeeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/Netflix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/NetflixTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/PestTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/PetStaticPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/VarArgs1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/bankaccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/banktest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/catclass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/cattestclass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/methodpractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/methodpractice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/methodpractice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/newanimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/studentClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/studentTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/testComputer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/testanimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/objectpractice/testclassCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/primitives/ComparisonPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/primitives/ComparisonPractice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/primitives/CompoundPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/primitives/Farm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/primitives/LogicalOperatorPractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/primitives/LogicalOperatorsPractice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/primitives/Multiplevariables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/primitives/Practise1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/primitives/ReminderPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/primitives/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/primitives/UnaryPractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/primitives/UnaryPractice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/primitives/arithmeticPractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/primitives/booleanPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/primitives/casting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/primitives/charPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/primitives/numericPromotionPractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/primitives/task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/projectclass/task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/projectclass/week6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/scannerPractice/Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/scannerPractice/Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/scannerPractice/Practice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/scannerPractice/Practice4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/scannerPractice/practice5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/stringBasic/Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/stringMethods/Task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/stringMethods/Task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/stringMethods/methodChainning.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/stringMethods/practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/stringMethods/practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/stringMethods/practice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/stringMethods/practice4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/stringMethods/practice5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/stringMethods/stringPoolPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/switchStatment/nestedSwitchpractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/switchStatment/practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/switchStatment/practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/switchStatment/practice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/switchStatment/practice4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/ternaryOperators/practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/ternaryOperators/practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/ternaryOperators/practice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/variables/Practise1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/variables/Practise2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/variables/Practise3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/wrapperPractice/Microphone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/wrapperPractice/MicrophoneTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/wrapperPractice/Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/out/production/Batch16/wrapperPractice/StringToPrimitive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/Abstraction3/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/Abstraction3/GrandChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/Abstraction3/GrandParentAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/Abstraction3/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/Abstraction3/ParentIterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/asbtraction1/Alex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/asbtraction1/Campus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/asbtraction1/John.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/asbtraction1/Online.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/asbtraction1/OutOfStates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/asbtraction1/SelfLearner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/asbtraction1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/asbtraction1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/asbtraction1/Victoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/asbtraction2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/asbtraction2/Birds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/asbtraction2/CanFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/asbtraction2/CanRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/asbtraction2/CanSwim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/asbtraction2/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/asbtraction2/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/asbtraction2/Puffin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Abstraction/asbtraction2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/AccessModifiers/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/AccessModifiers/ChildAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/AccessModifiers/TestAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/BlocksPractice/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/BlocksPractice/TestPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Encapsulation/CityClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Encapsulation/ImmutablePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Encapsulation/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Encapsulation/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Exception/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Exception/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Exception/Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/IfStatment/IfCurlyBracets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/IfStatment/elseIfPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/IfStatment/elseIfPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/IfStatment/elsepractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/IfStatment/elsepractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/IfStatment/elsepractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/IfStatment/elsepractice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/IfStatment/elsepractice5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/IfStatment/nestedIfPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/IfStatment/nestedIfPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/IfStatment/nestedIfPractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/IfStatment/nestedIfpractice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/IfStatment/practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/IfStatment/practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/IfStatment/practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Inheritance/InheritancePractice2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Inheritance/InheritancePractice2/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Inheritance/InheritancePractice2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Inheritance/InheritancePractice2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Inheritance/InheritancePractice2/DomesticAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Inheritance/InheritancePractice2/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Inheritance/InheritancePractice2/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Inheritance/InheritancePractice2/WildAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Inheritance/InheritancePractice2/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Inheritance/InheritancePractice3/Flower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Inheritance/InheritancePractice3/Rose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Inheritance/InheritancePractice4/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Inheritance/InheritancePractice4/Notebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Inheritance/InheritancePractice5/Shirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Inheritance/InheritancePractice5/ShirtSleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Inheritance/InheritancePractice5/T_shirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/Inheritance/InheritancePractice5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/MapPractice/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/MapPractice/Dealership.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/MapPractice/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/MapPractice/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/MapPractice/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/MapPractice/Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/MapPractice/Practice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/MapPractice/Practice5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/MapPractice/Practice6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/MapPractice/Practice7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/MapPractice/Practice8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/MapPractice/StudentInfroTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/ArraysConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/GarbageCollector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/IfAndTernary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/JavaPrimativeDataAsciiTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/ListOfConcepts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/ListPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/MapPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/OOP/AbstarctPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/OOP/AbstractInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/OOP/Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/OOP/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/OOP/EncapsulationPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/OOP/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/OOP/InterfaceChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/OOP/InterfacePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/OOP/InterfacePractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/OOP/Jaguar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/OOP/Lamborghini.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/OOP/PolyMorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/OOP/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/ObjectsAndMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/RecapOfRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/RecapWithAhmet/Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/RecapWithAhmet/RecapOfRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/SetPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/StaticInstanceBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/StaticPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/StringAndMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/StringBuilderPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/StringSplitMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/RecapWithAhmet/WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/SetPractice/Flower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/SetPractice/FlowerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/SetPractice/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/SetPractice/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/SetPractice/Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/SetPractice/Practice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/SetPractice/TestFlower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/StringBuilderPractice/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/StringBuilderPractice/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/StringBuilderPractice/Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/StringBuilderPractice/Practice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/StringBuilderPractice/Practice5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/StringBuilderPractice/Practice6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayList/ARRAYTOARRAYLIST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayList/ArrayListToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayList/ChildToAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayList/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayList/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayList/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayList/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayList/Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayList/Practice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayList/Practice5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayList/Practice6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayList/Practice7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayList/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayList/TestAnimal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayspractice/multipractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayspractice/multipractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayspractice/multipractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayspractice/multitask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayspractice/practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayspractice/practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayspractice/practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayspractice/practice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayspractice/sortpracticeclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayspractice/splitpractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayspractice/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayspractice/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayspractice/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayspractice/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/arrayspractice/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/javaFirst/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/HeadTailGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/continuepractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/dowhilepractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/dowhilepractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/dowhilepractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/foeachpractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/foreachprectice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/foreachtask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/forpractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/forpractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/forpractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/taskforpractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/whilepractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/whilepractice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/whilepractice5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/whilepractice6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/whileprectice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/loops/whileprectice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/mentorOleg/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/mentorOleg/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/mentorOleg/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/nestedloop/breakpractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/nestedloop/nestedloop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/nestedloop/nestedloop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/nestedloop/nestedloop4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/nestedloop/nestedloop5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/nestedloop/nestedloops3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/Calculatorclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/Netflix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/NetflixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/PestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/PetStaticPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/VarArgs1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/bankaccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/banktest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/catclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/cattestclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/methodpractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/methodpractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/methodpractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/newanimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/studentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/studentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/testComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/testanimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/objectpractice/testclassCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/primitives/ComparisonPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/primitives/ComparisonPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/primitives/CompoundPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/primitives/Farm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/primitives/LogicalOperatorPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/primitives/LogicalOperatorsPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/primitives/Multiplevariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/primitives/Practise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/primitives/ReminderPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/primitives/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/primitives/UnaryPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/primitives/UnaryPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/primitives/arithmeticPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/primitives/booleanPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/primitives/casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/primitives/charPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/primitives/numericPromotionPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/primitives/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/projectclass/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/projectclass/week6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/scannerPractice/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/scannerPractice/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/scannerPractice/Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/scannerPractice/Practice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/scannerPractice/practice5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/stringBasic/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/stringMethods/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/stringMethods/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/stringMethods/methodChainning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/stringMethods/practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/stringMethods/practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/stringMethods/practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/stringMethods/practice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/stringMethods/practice5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/stringMethods/stringPoolPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/switchStatment/nestedSwitchpractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/switchStatment/practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/switchStatment/practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/switchStatment/practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/switchStatment/practice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/ternaryOperators/practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/ternaryOperators/practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/ternaryOperators/practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/variables/Practise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/variables/Practise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/variables/Practise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/wrapperPractice/Microphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/wrapperPractice/MicrophoneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/wrapperPractice/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Batch16/src/wrapperPractice/StringToPrimitive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Exam/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Exam/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Exam/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Exam/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Exam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Exam/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/JDK 11.0.17.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/README.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jarsigner" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/javac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/javadoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/javap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jcmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jconsole" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jdeprscan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jdeps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jfr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jhsdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jimage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jinfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jlink" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jrunscript" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jshell" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jstack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jstat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/jstatd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/keytool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/pack200" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/rmic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/rmid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/rmiregistry" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/serialver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/bin/unpack200" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/conf/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/conf/management/jmxremote.access" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/conf/management/jmxremote.password.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/conf/management/management.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/conf/net.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/conf/security/java.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/conf/security/java.security" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/conf/security/policy/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/conf/security/policy/limited/default_US_export.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/conf/security/policy/limited/default_local.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/conf/security/policy/limited/exempt_local.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/conf/security/policy/unlimited/default_US_export.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/conf/security/policy/unlimited/default_local.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/conf/sound.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/include/classfile_constants.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/include/darwin/jawt_md.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/include/darwin/jni_md.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/include/jawt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/include/jdwpTransport.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/include/jni.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/include/jvmti.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/include/jvmticmlr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/include/sizecalc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.base.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.compiler.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.datatransfer.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.desktop.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.instrument.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.logging.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.management.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.management.rmi.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.naming.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.net.http.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.prefs.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.rmi.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.scripting.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.se.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.security.jgss.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.security.sasl.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.smartcardio.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.sql.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.sql.rowset.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.transaction.xa.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.xml.crypto.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/java.xml.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.accessibility.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.attach.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.charsets.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.compiler.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.crypto.cryptoki.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.crypto.ec.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.dynalink.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.editpad.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.hotspot.agent.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.httpserver.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.internal.ed.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.internal.jvmstat.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.internal.le.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.internal.opt.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.internal.vm.ci.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.internal.vm.compiler.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.internal.vm.compiler.management.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.jartool.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.javadoc.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.jcmd.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.jconsole.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.jdeps.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.jdi.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.jdwp.agent.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.jfr.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.jlink.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.jshell.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.jsobject.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.jstatd.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.localedata.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.management.agent.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.management.jfr.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.management.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.naming.dns.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.naming.ldap.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.naming.rmi.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.net.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.pack.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.rmic.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.scripting.nashorn.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.scripting.nashorn.shell.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.sctp.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.security.auth.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.security.jgss.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.unsupported.desktop.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.unsupported.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.xml.dom.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/jmods/jdk.zipfs.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.base/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.base/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.base/aes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.base/asm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.base/c-libutl.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.base/cldr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.base/icu.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.base/public_suffix.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.base/unicode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.compiler/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.compiler/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.datatransfer/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.datatransfer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.desktop/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.desktop/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.desktop/colorimaging.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.desktop/freetype.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.desktop/giflib.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.desktop/harfbuzz.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.desktop/jpeg.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.desktop/lcms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.desktop/libpng.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.desktop/mesa3d.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.desktop/xwd.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.instrument/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.instrument/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.logging/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.logging/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.management.rmi/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.management.rmi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.management/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.management/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.naming/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.naming/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.net.http/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.net.http/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.prefs/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.prefs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.rmi/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.rmi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.scripting/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.scripting/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.se/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.se/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.security.jgss/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.security.jgss/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.security.sasl/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.security.sasl/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.smartcardio/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.smartcardio/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.smartcardio/pcsclite.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.sql.rowset/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.sql.rowset/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.sql/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.sql/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.transaction.xa/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.transaction.xa/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.xml.crypto/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.xml.crypto/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.xml.crypto/santuario.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.xml/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.xml/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.xml/bcel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.xml/dom.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.xml/jcup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.xml/xalan.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/java.xml/xerces.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.accessibility/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.accessibility/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.attach/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.attach/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.charsets/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.charsets/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.compiler/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.compiler/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.crypto.cryptoki/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.crypto.cryptoki/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.crypto.cryptoki/pkcs11cryptotoken.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.crypto.cryptoki/pkcs11wrapper.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.crypto.ec/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.crypto.ec/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.crypto.ec/ecc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.dynalink/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.dynalink/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.dynalink/dynalink.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.editpad/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.editpad/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.hotspot.agent/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.hotspot.agent/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.httpserver/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.httpserver/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.internal.ed/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.internal.ed/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.internal.jvmstat/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.internal.jvmstat/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.internal.le/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.internal.le/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.internal.le/jline.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.internal.opt/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.internal.opt/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.internal.opt/jopt-simple.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.internal.vm.ci/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.internal.vm.ci/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.internal.vm.compiler.management/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.internal.vm.compiler.management/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.internal.vm.compiler/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.internal.vm.compiler/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jartool/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jartool/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.javadoc/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.javadoc/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.javadoc/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.javadoc/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.javadoc/jszip.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.javadoc/pako.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jcmd/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jcmd/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jconsole/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jconsole/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jdeps/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jdeps/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jdi/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jdi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jdwp.agent/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jdwp.agent/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jfr/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jfr/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jlink/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jlink/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jshell/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jshell/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jsobject/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jsobject/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jstatd/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.jstatd/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.localedata/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.localedata/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.localedata/cldr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.localedata/thaidict.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.management.agent/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.management.agent/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.management.jfr/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.management.jfr/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.management/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.management/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.naming.dns/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.naming.dns/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.naming.ldap/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.naming.ldap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.naming.rmi/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.naming.rmi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.net/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.net/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.pack/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.pack/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.rmic/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.rmic/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.scripting.nashorn.shell/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.scripting.nashorn.shell/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.scripting.nashorn/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.scripting.nashorn/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.scripting.nashorn/double-conversion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.scripting.nashorn/joni.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.sctp/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.sctp/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.security.auth/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.security.auth/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.security.jgss/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.security.jgss/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.unsupported.desktop/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.unsupported.desktop/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.unsupported/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.unsupported/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.xml.dom/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.xml.dom/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.zipfs/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/legal/jdk.zipfs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/ct.sym" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/fontconfig.bfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/fontconfig.properties.src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/jfr/default.jfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/jfr/profile.jfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/jli/libjli.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/jrt-fs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/jspawnhelper" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/jvm.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libattach.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libawt.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libawt_lwawt.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libdt_socket.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libextnet.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libfontmanager.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libfreetype.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libinstrument.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libj2gss.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libj2pcsc.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libj2pkcs11.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libjaas.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libjava.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libjavajpeg.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libjawt.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libjdwp.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libjimage.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libjsig.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libjsound.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/liblcms.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libmanagement.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libmanagement_agent.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libmanagement_ext.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libmlib_image.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libnet.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libnio.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libosx.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libosxapp.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libosxkrb5.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libosxsecurity.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libosxui.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libprefs.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/librmi.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libsaproc.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libsplashscreen.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libsunec.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libunpack.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libverify.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/libzip.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/modules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/psfont.properties.ja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/psfontj2d.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/security/blocked.certs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/security/cacerts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/security/default.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/security/public_suffix_list.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/server/Xusage.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/server/libjsig.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/server/libjvm.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/src.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/lib/tzdb.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Home/release" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/MacOS/libjli.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/JAVA 11/jdk-11.0.17.jdk 2/Contents/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/src/test/java/ArrayTasks/Array_AddUpToSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/src/test/java/ArrayTasks/Array_FindMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/src/test/java/ArrayTasks/Array_FindMinimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/src/test/java/ArrayTasks/Array_FirstDuplicatedElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/src/test/java/ArrayTasks/Array_FrequencyOfEachElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/src/test/java/ArrayTasks/Array_FrequencyOfEachElement_WithWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/src/test/java/ArrayTasks/Array_MergeTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/src/test/java/ArrayTasks/Array_MoveAllZerosToTheEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/src/test/java/ArrayTasks/Array_RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/src/test/java/ArrayTasks/Array_Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/src/test/java/ArrayTasks/Array_SecondLargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/src/test/java/MyArrayTasks/Array_AddUpToSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/src/test/java/MyArrayTasks/Array_FindMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/target/test-classes/ArrayTasks/Array_AddUpToSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/target/test-classes/ArrayTasks/Array_FindMaximum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/target/test-classes/ArrayTasks/Array_FindMinimum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/target/test-classes/ArrayTasks/Array_FirstDuplicatedElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/target/test-classes/ArrayTasks/Array_FrequencyOfEachElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/target/test-classes/ArrayTasks/Array_FrequencyOfEachElement_WithWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/target/test-classes/ArrayTasks/Array_MergeTwoArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/target/test-classes/ArrayTasks/Array_MoveAllZerosToTheEnd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/target/test-classes/ArrayTasks/Array_RemoveDuplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/target/test-classes/ArrayTasks/Array_Reverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/target/test-classes/ArrayTasks/Array_SecondLargestNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/target/test-classes/MyArrayTasks/Array_AddUpToSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Java_Coding_Interview_Tasks/target/test-classes/MyArrayTasks/Array_FindMaximum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Mock Interview Tasks/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Mock Interview Tasks/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Mock Interview Tasks/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Mock Interview Tasks/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Mock Interview Tasks/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Mock Interview Tasks/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Mock Interview Tasks/src/test/java/JavaInterviewTasks/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Mock Interview Tasks/src/test/java/JavaInterviewTasks/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Mock Interview Tasks/src/test/java/JavaInterviewTasks/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Mock Interview Tasks/src/test/java/JavaInterviewTasks/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Mock Interview Tasks/src/test/java/JavaInterviewTasks/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Mock Interview Tasks/target/test-classes/JavaInterviewTasks/task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Mock Interview Tasks/target/test-classes/JavaInterviewTasks/task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/Mock Interview Tasks/target/test-classes/JavaInterviewTasks/task3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/PROJECT/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/PROJECT/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/PROJECT/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/PROJECT/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/PROJECT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/PROJECT/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/PROJECT/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/PROJECT/src/main/java/classs/Problem4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/PROJECT/target/classes/classs/Problem4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/Program2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/Program2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish 1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish 1/codefish 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish 1/out/production/codefish 1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish 1/out/production/codefish 1/Task3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish 1/out/production/codefish 1/Task4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish 1/out/production/codefish 1/Task6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish 1/out/production/codefish 1/Task7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish 1/out/production/codefish 1/task5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish 1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish 1/src/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish 1/src/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish 1/src/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish 1/src/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish 1/src/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish.io/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish.io/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish.io/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish.io/codefish.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish.io/out/production/codefish.io/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework/codefish.io/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/homework1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/fun/pr1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/fun/switchtask1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/kutmanmentor/Scanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/kutmanmentor/task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/mentorclasses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project1/task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project1/task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project1/task3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project1/task4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project1/task5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project1/task6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project1/task7Camera.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project1/task7touchScreen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project2/task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project2/task3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project2/task4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project2/task5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project2/task6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project3/task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project3/task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project3/task3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project3/task32.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project3/task4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project3/task5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/out/production/homework1/project4/practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/MockInterviewTasks/MoveZeroToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/fun/pr1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/fun/switchtask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/kutmanmentor/Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/kutmanmentor/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/mentorclasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project1/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project1/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project1/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project1/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project1/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project1/task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project1/task7Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project1/task7touchScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project2/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project2/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project2/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project2/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project2/task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project3/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project3/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project3/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project3/task32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project3/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/homework1/src/project3/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/project2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/project2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/project2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/project2/out/production/project2/task2/task3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/project2/project2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/project2/src/task2/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/project2/src/task2/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soft skills/Batch 16.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soft skills/STLC.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zoom.us" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Снимок экрана 2023-05-22 в 8.59.05 AM.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PmxGP6PTCo8OIjYFfTiIikRyCw" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="GroupPractice" />
+      <recent name="SelectClass" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CustomerTest.addCustomerFunctionality">
+    <configuration name="CustomerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.openchart.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.openchart.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.test.openchart.tests.CustomerTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest.addCustomerFunctionality" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.openchart.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.openchart.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.test.openchart.tests.CustomerTest" />
+      <option name="METHOD_NAME" value="addCustomerFunctionality" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenChartLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.openchart.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.openchart.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.test.openchart.tests.OpenChartLoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenChartLoginTest.happyPathLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.openchart.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.openchart.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.test.openchart.tests.OpenChartLoginTest" />
+      <option name="METHOD_NAME" value="happyPathLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenChartLoginTest.validateNegativeLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.openchart.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.openchart.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.test.openchart.tests.OpenChartLoginTest" />
+      <option name="METHOD_NAME" value="validateNegativeLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CustomerTest.addCustomerFunctionality" />
+        <item itemvalue="TestNG.CustomerTest" />
+        <item itemvalue="TestNG.OpenChartLoginTest.happyPathLogin" />
+        <item itemvalue="TestNG.OpenChartLoginTest" />
+        <item itemvalue="TestNG.OpenChartLoginTest.validateNegativeLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bee147f-a865-42fc-a8a3-cce62f18f42e" name="Changes" comment="" />
+      <created>1684075965659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684075965659</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TestNG/TestNGAssertion.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/TestNG/TestNGAssertion.java</url>
+          <line>41</line>
+          <properties class="TestNG.TestNGAssertion" method="validateNegativeWithNegative">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/openchart/tests/OpenChartLoginTest.java</url>
+          <line>9</line>
+          <properties class="com.test.openchart.tests.OpenChartLoginTest" method="happyPathLogin">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
