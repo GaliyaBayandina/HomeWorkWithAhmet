@@ -1193,6 +1193,13 @@
       <change afterPath="$PROJECT_DIR$/../soft skills/STLC.pptx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zoom.us" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Снимок экрана 2023-05-22 в 8.59.05 AM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Utils/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utils/BrowserUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/bank/tests/BankCustomerLoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/bank/tests/BankCustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/bank/tests/BankTestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/bank/tests/BankTestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Utils/BrowserUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Utils/BrowserUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/bank/tests/BankCustomerLoginPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/bank/tests/BankTestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/test/bank/tests/BankTestBase.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1243,35 +1250,18 @@
       <recent name="$PROJECT_DIR$/src/test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.CustomerTest.addCustomerFunctionality">
-    <configuration name="CustomerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.FishForDinnerTest.FishForDinnerTest">
+    <configuration name="BlazeOrderTest.validateOrderFunctionality" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.openchart.tests.*" />
+          <option name="PATTERN" value="com.test.blaze.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.openchart.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.test.openchart.tests.CustomerTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CustomerTest.addCustomerFunctionality" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium16" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.openchart.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.openchart.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.test.openchart.tests.CustomerTest" />
-      <option name="METHOD_NAME" value="addCustomerFunctionality" />
+      <option name="PACKAGE_NAME" value="com.test.blaze.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.blaze.test.BlazeOrderTest" />
+      <option name="METHOD_NAME" value="validateOrderFunctionality" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -1279,34 +1269,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenChartLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FishAndSeaFoodTest.SearchFunctionality" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.openchart.tests.*" />
+          <option name="PATTERN" value="com.test.TheSpruceEats.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.openchart.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.test.openchart.tests.OpenChartLoginTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OpenChartLoginTest.happyPathLogin" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium16" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.openchart.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.openchart.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.test.openchart.tests.OpenChartLoginTest" />
-      <option name="METHOD_NAME" value="happyPathLogin" />
+      <option name="PACKAGE_NAME" value="com.test.TheSpruceEats.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.TheSpruceEats.test.FishAndSeaFoodTest" />
+      <option name="METHOD_NAME" value="SearchFunctionality" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -1314,17 +1287,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenChartLoginTest.validateNegativeLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FishForDinnerTest.FishForDinnerTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.openchart.tests.*" />
+          <option name="PATTERN" value="com.test.TheSpruceEats.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.openchart.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.test.openchart.tests.OpenChartLoginTest" />
-      <option name="METHOD_NAME" value="validateNegativeLogin" />
+      <option name="PACKAGE_NAME" value="com.test.TheSpruceEats.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.TheSpruceEats.test.FishForDinnerTest" />
+      <option name="METHOD_NAME" value="FishForDinnerTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -1332,13 +1305,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HomeTest.IngredientsFunctionality" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.TheSpruceEats.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.TheSpruceEats.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.TheSpruceEats.test.HomeTest" />
+      <option name="METHOD_NAME" value="IngredientsFunctionality" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/galiyabayandina/Desktop/Selenium16/src/test/java/com/test/TheSpruceEats/runners/regressionRunners.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium16" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/test/TheSpruceEats/runners/regressionRunners.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG./Users/galiyabayandina/Desktop/Selenium16/src/test/java/com/test/TheSpruceEats/runners/regressionRunners.xml" />
+      <item itemvalue="TestNG.FishAndSeaFoodTest.SearchFunctionality" />
+      <item itemvalue="TestNG.FishForDinnerTest.FishForDinnerTest" />
+      <item itemvalue="TestNG.HomeTest.IngredientsFunctionality" />
+      <item itemvalue="TestNG.BlazeOrderTest.validateOrderFunctionality" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CustomerTest.addCustomerFunctionality" />
-        <item itemvalue="TestNG.CustomerTest" />
-        <item itemvalue="TestNG.OpenChartLoginTest.happyPathLogin" />
-        <item itemvalue="TestNG.OpenChartLoginTest" />
-        <item itemvalue="TestNG.OpenChartLoginTest.validateNegativeLogin" />
+        <item itemvalue="TestNG.FishForDinnerTest.FishForDinnerTest" />
+        <item itemvalue="TestNG.FishAndSeaFoodTest.SearchFunctionality" />
+        <item itemvalue="TestNG./Users/galiyabayandina/Desktop/Selenium16/src/test/java/com/test/TheSpruceEats/runners/regressionRunners.xml" />
+        <item itemvalue="TestNG.HomeTest.IngredientsFunctionality" />
+        <item itemvalue="TestNG.BlazeOrderTest.validateOrderFunctionality" />
       </list>
     </recent_temporary>
   </component>
@@ -1371,13 +1379,13 @@
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/com/test/openchart/tests/OpenChartLoginTest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/TheSpruceEats/test/FishForDinnerTest.java</url>
           <line>9</line>
-          <properties class="com.test.openchart.tests.OpenChartLoginTest" method="happyPathLogin">
+          <properties class="com.test.TheSpruceEats.test.FishForDinnerTest" method="FishForDinnerTest">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="14" />
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
